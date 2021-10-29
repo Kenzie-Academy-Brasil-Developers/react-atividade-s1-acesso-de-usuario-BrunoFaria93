@@ -1,0 +1,32 @@
+.container-1{
+    background-color: rgb(117, 117, 240);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-2{
+    border-radius: 10px;
+    background-color: whitesmoke;
+    height: 30vh;
+    width: 30vw;
+    
+}
+.container-2 h2{
+   
+   margin-top: 50px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 1.7rem;
+}
+
+.container-2 button{
+   margin-top: 50px;
+   width: 200px;
+   height: 50px;
+   background-color: rgb(117, 117, 240);;
+   border-radius: 5px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 1.2rem;
+   color: whitesmoke;
+   font-weight: bold;
+}
